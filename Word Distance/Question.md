@@ -6,7 +6,9 @@ Return -1 if not possible to convert.
 
 ### Sample input 1:
 pit, kate, pat, kit, kat, kite
+
 Convert pit into kite
+
 ### Output 1:
 2
 ### Solution: 
