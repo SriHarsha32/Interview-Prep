@@ -110,7 +110,6 @@ public class WordDist{
     public static void main (String[] args)
     {
         /*Scanner scan = new Scanner(System.in);
-         
         int total = scan.nextInt();
         String[] words = new String[total];
         for(int i = 0; i < total; i++){
